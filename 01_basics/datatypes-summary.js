@@ -27,8 +27,18 @@ let myobj ={
 }
 
  const myFunction =function(){
-    console.log("hello world");   
+    //console.log("hello world");   
  }
- console.log(typeof bigNumber);
+//  console.log(typeof bigNumber);
  
 
+// +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack(primitive), heap(non-primitive)
+
+let  MyYoutubeName="PriyaTiwaridotcom" 
+
+let anotherName = "MyYoutubeName"
+anothername ="chaiaurcode"
+
+console.log=(anotherName);
