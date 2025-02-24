@@ -29,4 +29,17 @@ function loginUsermessage(username){
     return`${username} just logged in`
 }
 //console.log(loginUsermessage("Priya"));
-console.log(loginUsermessage());
+//console.log(loginUsermessage());
+
+function calculateCartPrice(val1, val2, ...num1){
+    return num1
+}
+
+//console.log(calculateCartPrice(200,300,400,5000));
+
+const user = {
+    username: "priya",
+    price:199
+}
+
+function handleObject
